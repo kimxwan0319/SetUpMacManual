@@ -1,9 +1,8 @@
 # SetUpMacManual
-💻 흔한 iOS개발자의 MAC 셋업 매뉴얼
+💻 흔한 개발자의 MAC 셋업 매뉴얼
 > PR은 환영입니다!!
 
 ## Apps
-* [Xcode](https://apps.apple.com/kr/app/xcode/id497799835?l=en&mt=12)
 * [Typora](https://typora.io/#download)
 * [Notion](https://www.notion.so/desktop)
 * [Slack](https://slack.com/intl/en-kr/downloads/mac?geocode=en-kr)
@@ -25,18 +24,6 @@
    ```
    $ brew install ruby
    ```
-   
-* **Cocoapods**
-
-  ```
-  $ sudo gem install cocoapods
-  ```
-  
-* **Tuist**
-
-  ```
-  $ bash <(curl -Ls https://install.tuist.io)
-  ```
 
 ## Safari Extensions
 
