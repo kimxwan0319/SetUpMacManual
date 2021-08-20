@@ -1,7 +1,7 @@
 # SetUpMacManual
 💻 흔한 개발자의 MAC 셋업 매뉴얼
 > PR은 환영입니다!!
-
+# 공통
 ## Apps
 * [Typora](https://typora.io/#download)
 * [Notion](https://www.notion.so/desktop)
@@ -46,3 +46,12 @@
 * **숨긴 파일 표시**
 
    `⌘ + ⇧ + .`
+   
+# 분야별
+
+* [Backend](https://github.com/kimxwan0319/SetUpMacManual/blob/main/Backend.md)
+* [WebFront](https://github.com/kimxwan0319/SetUpMacManual/blob/main/WebFront.md)
+* [iOS](https://github.com/kimxwan0319/SetUpMacManual/blob/main/iOS.md)
+* [Andorid](https://github.com/kimxwan0319/SetUpMacManual/blob/main/Andorid.md)
+
+
