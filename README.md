@@ -20,7 +20,12 @@
    $ echo 'export PATH=/opt/homebrew/bin:$PATH' >> ~/.zshrc
    $ source ~/.zshrc
    ```
-  
+   
+* **Ruby**
+   ```
+   $ brew install ruby
+   ```
+   
 * **Cocoapods**
 
   ```
