@@ -1,5 +1,6 @@
 # SetUpMacManual
 💻 흔한 iOS개발자의 MAC 셋업 매뉴얼
+> PR은 환영입니다!!
 
 ## Apps
 * [Xcode](https://apps.apple.com/kr/app/xcode/id497799835?l=en&mt=12)
