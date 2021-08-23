@@ -49,9 +49,9 @@
    
 # 분야별
 
-* [Backend](https://github.com/kimxwan0319/SetUpMacManual/blob/main/Backend.md)
-* [WebFront](https://github.com/kimxwan0319/SetUpMacManual/blob/main/WebFront.md)
-* [iOS](https://github.com/kimxwan0319/SetUpMacManual/blob/main/iOS.md)
-* [Andorid](https://github.com/kimxwan0319/SetUpMacManual/blob/main/Andorid.md)
+* [Backend](https://github.com/kimxwan0319/SetUpMacManual/blob/main/Backend/Backend.md)
+* [WebFront](https://github.com/kimxwan0319/SetUpMacManual/blob/main/WebFront/WebFront.md)
+* [iOS](https://github.com/kimxwan0319/SetUpMacManual/blob/main/iOS/iOS.md)
+* [Andorid](https://github.com/kimxwan0319/SetUpMacManual/blob/main/Android/Android.md)
 
 
