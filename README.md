@@ -8,9 +8,11 @@
 * [Slack](https://slack.com/intl/en-kr/downloads/mac?geocode=en-kr)
 * [Figma](https://www.figma.com/downloads/)
 * [Gather.town](https://www.gather.town/download)
-* [Source Tree](https://www.sourcetreeapp.com)
 * [Macs Fan Control](https://crystalidea.com/macs-fan-control/download)
 * [한컴](https://www.hancom.com/mypage/myIndivPrdtList.do)
+* Version controller
+  * [GitKraken](https://www.gitkraken.com/)
+  * [Source Tree](https://www.sourcetreeapp.com)
 
 
 
