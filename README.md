@@ -9,6 +9,7 @@
 * [Figma](https://www.figma.com/downloads/)
 * [Gather.town](https://www.gather.town/download)
 * [Source Tree](https://www.sourcetreeapp.com)
+* [Macs Fan Control](https://crystalidea.com/macs-fan-control/download)
 * [한컴](https://www.hancom.com/mypage/myIndivPrdtList.do)
 
 
@@ -16,6 +17,7 @@
 ## CLI
 
 * **Homebrew**
+   
    ```bash
    $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    $ echo 'export PATH=/opt/homebrew/bin:$PATH' >> ~/.zshrc
@@ -52,13 +54,20 @@
 ## Safari Extensions
 
 [설치방법](https://support.apple.com/ko-kr/HT203051)
+
 * [Vimari](https://apps.apple.com/kr/app/vimari/id1480933944?l=en&mt=12)
 * [Octotree](https://apps.apple.com/kr/app/octotree/id1457450145?l=en&mt=12)
 
+
+
 ## 단축키
+
 * [현재 파일의 터미널 열기](https://ifuwanna.tistory.com/261)
 
+
+
 ## Finder
+
 * **경로 막대 표시**
 
    `⌥ + ⌘ + p`
@@ -71,6 +80,9 @@
 
    `⌘ + ⇧ + .`
    
+
+
+
 # 분야별
 
 * [Backend](https://github.com/kimxwan0319/SetUpMacManual/blob/main/Backend/Backend.md)
