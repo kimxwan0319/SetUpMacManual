@@ -12,18 +12,42 @@
 * [한컴](https://www.hancom.com/mypage/myIndivPrdtList.do)
 
 
+
 ## CLI
+
 * **Homebrew**
-   ```
+   ```bash
    $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    $ echo 'export PATH=/opt/homebrew/bin:$PATH' >> ~/.zshrc
    $ source ~/.zshrc
    ```
    
 * **Ruby**
-   ```
+   
+   ```bash
    $ brew install ruby
    ```
+
++ **zsh**
+
+  ```bash
+  # zsh 설치
+  $ sudo apt-get install zsh
+  
+  # 설치경로 확인
+  $ which zsh
+  #=> /usr/bin/zsh
+  
+  # 기본 sh 변경
+  $ chsh -s $(which zsh)
+
++ Oh-my-zsh
+
+  ```bash
+  # oh-my-zsh 설치
+  $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+
 
 ## Safari Extensions
 
@@ -53,5 +77,4 @@
 * [WebFront](https://github.com/kimxwan0319/SetUpMacManual/blob/main/WebFront/WebFront.md)
 * [iOS](https://github.com/kimxwan0319/SetUpMacManual/blob/main/iOS/iOS.md)
 * [Andorid](https://github.com/kimxwan0319/SetUpMacManual/blob/main/Android/Android.md)
-
 
