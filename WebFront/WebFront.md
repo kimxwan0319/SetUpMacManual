@@ -34,4 +34,6 @@
   
   # homebrew로 설치하기
   $ brew install yarn
+  
+  # yarn -v
 
