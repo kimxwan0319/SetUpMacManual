@@ -21,12 +21,6 @@
    $ echo 'export PATH=/opt/homebrew/bin:$PATH' >> ~/.zshrc
    $ source ~/.zshrc
    ```
-   
-* **Ruby**
-   
-   ```bash
-   $ brew install ruby
-   ```
 
 + **zsh**
 
