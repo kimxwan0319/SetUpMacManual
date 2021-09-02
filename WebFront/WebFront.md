@@ -14,8 +14,6 @@
 
 + [Visual Studio Code](https://code.visualstudio.com/)
 
-+ [GitKraken](https://www.gitkraken.com/)
-
 
 
 + **Node 설치하기**
