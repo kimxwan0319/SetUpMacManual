@@ -16,4 +16,8 @@
   $ bash <(curl -Ls https://install.tuist.io)
   ```
 
-  
+* Fastlane
+
+  ```
+  brew install fastlane
+  ```
