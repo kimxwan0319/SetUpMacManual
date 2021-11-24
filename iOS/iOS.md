@@ -21,3 +21,8 @@
   ```
   brew install fastlane
   ```
+
+* Make
+  ```
+  $ sudo make install
+  ```
